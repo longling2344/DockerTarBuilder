@@ -7,6 +7,14 @@
 
 ## 使用说明
 https://wkdaily.cpolar.cn/archives/gc
+
+
+ 1.进入Action选项卡
+ 2.在左侧all workfolows中选择要下载使用的平台arm/x86等
+ 3.选择好平台后在左侧点 run workfolow 在工作流的输入框里输入镜像名称（注意检查句首不要有空格）
+ 4.run workflow
+ 5.执行 成功后进入workflow在Artifacts下载tar包文件
+
 ## 教学视频
 https://www.bilibili.com/video/BV1EZ421M7mL
 ## 解压工具
